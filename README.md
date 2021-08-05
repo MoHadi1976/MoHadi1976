@@ -8,3 +8,5 @@ My name is Mohammed Hadi, I'm a junior Programmer.
 - 💬 Ask me about nothing YET ! But watch the space.
 - 💬 How to reach me : [email](m_hadi24@hotmail.com)
 - ⚡ Fun fact: I set a lap record at a go-karting track (Willenhall 22.36 Sec)
+
+![alt text]![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Laptop image")
